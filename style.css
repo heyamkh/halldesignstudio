@@ -262,7 +262,7 @@ footer{
 
 @media (max-width:1023px) {
     header{
-        padding: 2px 8px;
+        padding: 10px 20px;
     }
     .main h2{
         font-size: 1.1em;
@@ -288,7 +288,7 @@ footer{
     }
 
     .logo{
-        font-size: 1.1em;
+        font-size: 1.8em;
         font-family:Brush Script MT;
     }
     .social-icons a{
@@ -341,7 +341,7 @@ footer{
         padding: 1.8em;
     }
     
-  
+}
 
 @media (max-width:641px){
     body{
@@ -366,7 +366,7 @@ footer{
 }
 @media (max-width: 480px) {
     header{
-        padding: 2px 5px;
+        padding: 10px 20px;
     }
     .main{
         background-color: #56592e;
@@ -379,7 +379,7 @@ footer{
         flex-wrap: wrap;
     }
     .logo{
-        font-size: 1.1em;
+        font-size: 1.8em;
     }
     .card{
         padding: 2px;
