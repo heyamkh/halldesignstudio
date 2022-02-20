@@ -266,7 +266,9 @@ footer{
     }
     .main{
         background-image:url(images/interior-3996246_640.jpg);
+        background-size: cover;
     }
+
     .content{
         display: flex;
         justify-content: center;
@@ -305,6 +307,7 @@ footer{
         font-size: 12px;       
 }
 .main{
+    background-size: cover;
     background-image:url(images/interior-3996246_640.jpg);
 }
 .main-content h2{
@@ -323,6 +326,10 @@ footer{
 @media (max-width: 480px) {
     header{
         padding: 2px 5px;
+    }
+    .main{
+        background-size: cover;
+        background-image:url(images/interior-3996246_640.jpg);
     }
     .content{
         display: flex;
