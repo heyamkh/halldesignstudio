@@ -127,7 +127,7 @@ section{
     border-radius: 5px;
     background-color:;
     width: 20em;
-    
+    box-shadow: 0 5px 25px rgba(1 1 1 /15%);
     padding: 25px;
     margin: 10px;
     transition: 0.3s ease;
@@ -352,6 +352,7 @@ footer{
     }
     .main {
         background-image:url(images/interior-3996246_640.jpg);
+    
     }
     .main-content h2{
         font-size: 0.8em;
