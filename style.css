@@ -327,7 +327,7 @@ footer{
     .contact .card{
         width: 150px;
     }
-    
+    .c
 
     .project-title{
     font-weight: 700;
@@ -346,9 +346,13 @@ footer{
         font-size: 12px;       
 }
 .main{
-    background-size: cover;
+    background-size:cover;
     background-image:url(images/interior-3996246_640.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
 }
+
 .main-content h2{
      font-size: 0.8em;
 }
@@ -367,9 +371,13 @@ footer{
         padding: 2px 5px;
     }
     .main{
-        background-size: cover;
+        background-size:cover;
         background-image:url(images/interior-3996246_640.jpg);
+        background-position:center;
+        background-repeat: no-repeat;
+        background-attachment:fixed;
     }
+    
     .content{
         display: flex;
         justify-content: center;
