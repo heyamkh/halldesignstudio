@@ -264,6 +264,18 @@ footer{
     header{
         padding: 2px 8px;
     }
+    .main h2{
+        font-size: 1.1em;
+    
+    }
+    .main h3{
+        font-size: 1.3em;
+
+    }
+    .navigation a{
+        padding-left: 1px;
+        margin: 3px;  
+    }
     .main{
         background-image:url(images/interior-3996246_640.jpg);
         background-size: cover;
@@ -275,36 +287,62 @@ footer{
         flex-direction: row;
         flex-wrap: wrap;
     }
+
     .logo{
         font-size: 1.1em;
         font-family:Brush Script MT;
     }
-    .card{
-        padding: 2px;
-         margin: 5px;
+    .social-icons a{
+        font-size: 1.8em;
+        padding-right: 20px;
     }
-    .navigation a{
-        padding-left: 1px;
-        margin: 3px;
-        
+    .card{
+        padding: 5px;
+        margin: 5px;
+    }
+    .icons{
+        font-size: 3em;
+
+    }
+    .info .span{
+        font-size: 1.1em;
+    }
+    .info h3{
+        font-size: 1.2em;
+        font-weight: 700;
+        margin: 5px;
+     }
+     .info .title{
+         padding: 1px;
+         text-align: center;
+         font-size: 0.9em;
+     }
+     .text{
+        padding: 5px;
+        margin: 5px;
+     }
+    .project-cards{
+    width: 140px;
+    }
+    .contact .card{
+        width: 150px;
+    }
+    
+
+    .project-title{
+    font-weight: 700;
+    margin-top: 3px;
+    font-size: 10px;
     }
 
     .title{
         padding: 1.8em;
     }
-
     
-    .main-content h2{
-        font-size: 0.8em;
-    
-    }
-    .main-content h3{
-        font-size: 1.6em;
-
-}
+  
 
 @media (max-width:641px){
-      body{
+    body{
         font-size: 12px;       
 }
 .main{
