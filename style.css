@@ -277,10 +277,9 @@ footer{
         margin: 3px;  
     }
     .main{
-        background-image:url(images/interior-3996246_640.jpg);
-        background-size: cover;
+        background-color: #56592e;
     }
-
+    
     .content{
         display: flex;
         justify-content: center;
@@ -303,6 +302,9 @@ footer{
     .icons{
         font-size: 3em;
 
+    }
+    .more-details{
+        font-size: 0.8;
     }
     .info .span{
         font-size: 1.1em;
@@ -327,7 +329,7 @@ footer{
     .contact .card{
         width: 150px;
     }
-    .c
+    
 
     .project-title{
     font-weight: 700;
@@ -346,11 +348,7 @@ footer{
         font-size: 12px;       
 }
 .main{
-    background-size:cover;
-    background-image:url(images/interior-3996246_640.jpg);
-    background-position:center;
-    background-repeat: no-repeat;
-    background-attachment:fixed;
+    background-color: #56592e;
 }
 
 .main-content h2{
@@ -371,11 +369,7 @@ footer{
         padding: 2px 5px;
     }
     .main{
-        background-size:cover;
-        background-image:url(images/interior-3996246_640.jpg);
-        background-position:center;
-        background-repeat: no-repeat;
-        background-attachment:fixed;
+        background-color: #56592e;
     }
     
     .content{
@@ -405,7 +399,7 @@ footer{
         padding: 80px 20px;
     }
     .main {
-        background-image:url(images/interior-3996246_640.jpg);
+        background-color: #56592e;
     
     }
     .main-content h2{
