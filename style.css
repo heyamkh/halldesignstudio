@@ -234,7 +234,7 @@ section{
 }
 
 footer{
-    background-color: #005067;
+    background-color: #c3cc75;
     color: #fff;
     display: flex;
     padding: 0.5em;
@@ -278,7 +278,11 @@ footer{
         margin: 3px;  
     }
     .main{
-        background-image: url(images/media\ packground.jfif)
+        background-position: center center;
+        background-attachment: fixed;
+        background-repeat: no-repeat; 
+        background-size: cover;
+        background-image: url(images/media\ packground.jfif);
     }
     
     .content{
@@ -325,7 +329,7 @@ footer{
         margin: 5px;
      }
     .project-cards{
-    width: 150px 150px;
+    width: 250px;
     }
     .contact .card{
         width: 150px;
