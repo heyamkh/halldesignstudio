@@ -278,7 +278,7 @@ footer{
         margin: 3px;  
     }
     .main{
-        background-color: #56592e;
+        background-image: url(images/media\ packground.jfif)
     }
     
     .content{
@@ -325,7 +325,7 @@ footer{
         margin: 5px;
      }
     .project-cards{
-    width: 140px;
+    width: 150px 150px;
     }
     .contact .card{
         width: 150px;
