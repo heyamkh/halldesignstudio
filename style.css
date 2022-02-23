@@ -279,12 +279,13 @@ footer{
         margin: 3px;  
     }
     .main{
-    background-position: center center;
+    display: inline;
+        background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(images/media\ packground.jfif);
-      
+    
     }
     
     .content{
