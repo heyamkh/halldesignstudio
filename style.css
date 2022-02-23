@@ -234,7 +234,7 @@ section{
 }
 
 footer{
-    background-color: #c3cc75;
+    background-color:#56592e;
     color: #fff;
     display: flex;
     padding: 0.5em;
@@ -262,6 +262,7 @@ footer{
 
 
 @media (max-width:1023px) {
+
     header{
         padding: 10px 20px;
     }
@@ -278,11 +279,12 @@ footer{
         margin: 3px;  
     }
     .main{
-        background-position: center center;
-        background-attachment: fixed;
-        background-repeat: no-repeat; 
-        background-size: cover;
-        background-image: url(images/media\ packground.jfif);
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/media\ packground.jfif);
+      
     }
     
     .content{
