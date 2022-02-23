@@ -234,30 +234,40 @@ section{
 }
 
 footer{
-    background-color:#56592e;
-    color: #fff;
-    display: flex;
-    padding: 0.5em;
-    justify-content:space-between;
-    flex-direction: row;
+    background-color:#fff;
     
     
 }
 
 .footer-title{
-    font-size: 1em;
-    font-weight: 500;
+    font-family: "Muli", sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.6;
+    text-align: center;
+    color: #8e8e8e;
+    background: #fff;
+    text-rendering: optimizeLegibility;
 }
 
+
+
 .footer-title span{
-    color: #a06a10;
+    color: rgba(214, 205, 205, 0.664);
+    
     
     
 }
 .footer .social-icons a{
     font: size 0.9;
-    padding: 0 12px 0 0;
-
+    color: #8e8e8e;
+    display:flex;
+    padding: 12px;
+    justify-content: right;
+    text-decoration: none;
+    flex-direction: row;
+   
+    
 }
 
 
