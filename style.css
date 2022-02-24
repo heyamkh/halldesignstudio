@@ -40,7 +40,8 @@ header{
 }
 
 .navigation a:hover{
-    color:#a06a10;
+    color:#cf8a05;
+    ;
     
 }
 
@@ -146,7 +147,7 @@ section{
 }
 
 .icons { 
-     color: #a06a10;
+     color: #cf8a05;
      font-size: 5em;
      text-align: center;
  }
@@ -159,7 +160,7 @@ section{
 
  }
  .info h3{
-    color: #a06a10;
+    color:  #cf8a05;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
@@ -214,7 +215,7 @@ section{
 
 .more-details{
     text-decoration: none;
-    color: #a06a10;
+    color:  #cf8a05;
     font-size: 0.8em;
     margin-top: 10px;
 }
@@ -234,7 +235,7 @@ section{
 }
 
 footer{
-    background-color:#fff;
+    background-color:#f3f3f3;
     
     
 }
@@ -263,9 +264,11 @@ footer{
     color: #8e8e8e;
     display:flex;
     padding: 12px;
-    justify-content: right;
+    float: right;
     text-decoration: none;
     flex-direction: row;
+    
+   
    
     
 }
@@ -289,11 +292,7 @@ footer{
         margin: 3px;  
     }
     .main{
-    display: inline;
-        background-position: center center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: cover;
+  
     background-image: url(images/media\ packground.jfif);
     
     }
@@ -308,6 +307,7 @@ footer{
     .logo{
         font-size: 1.2em;
         font-family:san-fracisco;
+        
     }
     .social-icons a{
         font-size: 1.8em;
