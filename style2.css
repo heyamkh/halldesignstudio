@@ -86,9 +86,43 @@ hgroup,
 menu,
 nav,
 section {
-  display: block;
+    display: block;
+}
+header{
+    background-color: #a7a6ac9c;
+    width:99%;
+    position:fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    
+    
+}
+.logo{
+    text-decoration: none;
+    color: #56592e;
+    text-transform:capitalize; 
+    font-weight: 400;
+    font-size: 1.8em;
+    font-family:Brush Script MT;
 }
 
+.navigation a{
+    color: #56592e;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navigation a:hover{
+    color:#cf8a05;
+    
+    
+}
 
 /* We need to minimize the use of code, so we will be using roots...this is in the works */
 :root {
