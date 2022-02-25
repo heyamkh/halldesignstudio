@@ -88,11 +88,7 @@ nav,
 section {
   display: block;
 }
-.delayFour {
-    color: #fff;
-    font-size: 1.7em;
-    display: flex;
-}
+
 
 /* We need to minimize the use of code, so we will be using roots...this is in the works */
 :root {

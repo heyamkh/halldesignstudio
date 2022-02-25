@@ -41,7 +41,7 @@ header{
 
 .navigation a:hover{
     color:#cf8a05;
-    ;
+    
     
 }
 
@@ -292,8 +292,7 @@ footer{
         margin: 3px;  
     }
     .main{
-  
-    background-image: url(images/media\ packground.jfif);
+  ;
     
     }
     
