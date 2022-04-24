@@ -204,10 +204,9 @@
   }
   
   
-  
 
 section{
-    padding: 30px 60px;
+    padding: 50px 100px;
 
 }
 
@@ -219,7 +218,8 @@ section{
     display: flex;
     align-items: center;
     background-size:cover;
-    background-image:url(images/main-background-image.jpg);
+    background-image:url(background_nest.png);
+    background-color: #000;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment:fixed;
